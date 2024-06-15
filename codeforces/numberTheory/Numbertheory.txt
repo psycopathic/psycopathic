@@ -1,0 +1,41 @@
+NUMBER THEORY....
+
+# Modulus (%) gives you remainder of the dividend....
+# used as x%m ==> modulo
+#if modulus is negative then modulus is written as (x%m+m)%m
+
+
+#properties..
+-> N is a given NUMBER
+find the factorial % modulo
+n=5 , m=20
+
+5! = 120
+120%m = 0
+
+
+-> long long a = 10^18,b = 10^18
+  int m = 1e9+7 ==>1000000007
+  int x = (a+b)%m
+
+  some important identities..
+  ->(a-b)%m = ((a%m) - (b%m))%m
+  ->(a+b)%m = ((a%m) + (b%m))%m
+  ->(a*b)%m = ((a%m) * (b%m))%m
+  ->(a/b)%m = ((a%m) * (b^-1%m))%m
+
+
+
+  #TO CHECK NUMBER IS PRIME OR NOT 
+  => for this we can use square root method in the square root method 
+   we iterate till underoot(n) (Here n is the entered number)\
+
+  => for range we will prefer prime sieve
+
+  #there is an optimisation in sieve..
+
+  1. unmarked 25 (start from p^2)
+  1. then there must be a devisor from 1 to root(n)(start from p^2)
+   for(j=p;j<=N;j=j+p){
+
+   }

@@ -1,0 +1,58 @@
+// code kaise execute hote hai javascript mai
+
+
+// javascript execution contest
+// javascript do phase mai humara code run karti hai
+
+
+// sabse pehle global execution context banta hai
+// isko refer kiya jaiga variable se (this)
+
+// humape 3 ec hote hai
+// global ec
+// function ec
+// eval ec
+
+// isko memory creation phase bolte 
+
+
+
+// let val1 = 10
+// let val2 = 5
+// function addNum(num1,num2){
+//     let total =  num1+num2
+//     return total
+// }
+
+// let result1 = addNum(val1,val2)
+// let result2 = addNum(10,2)
+
+
+// steps:
+// #.global execution
+// #.memory creation phase
+//  val1 <- undefined
+//  val2 <- undefined
+//  addNum <- definition
+//  result1 <- undefined
+//  result2 <- undefined
+
+// #.execution phase
+// 1.val1<-10
+// 2.val2<-5
+
+// addNum->new execution Context -->> ek block banaiga jisme new variable enviroment + exection thread
+
+// ye block delete hoga fir ussi point pai wapis aajainge
+
+// in box 
+// 1.memory phase
+//  val1<-undefined
+//  val2<-undefined
+//  total<-undefined
+// 2.executional Context
+//  num1->10
+//  num2->5
+//  total->15 return hoga global executional context mai
+
+// call stack.....

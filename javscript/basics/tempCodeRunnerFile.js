@@ -1,2 +1,4 @@
-const myTotal = myNums.reduce((acc,curr) => acc*curr,1)
-// console.log(myTotal);
+{
+//     let trial = 10;
+// }
+// console.log(trial)

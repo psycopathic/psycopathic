@@ -6,7 +6,7 @@ fs.readFile("a.txt", "utf-8", function(err, data) {
         console.error("Error reading file:", err);
         return;
     }
-    data = data + "harsh has just started";
+    data = data + " harsh has just started";
     fs.writeFile("a.txt", data, function(err) {
         if (err) {
             console.error("Error writing file:", err);

@@ -1,0 +1,23 @@
+<!-- built a counter using setimeout -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Counter</title>
+</head>
+<body>
+    <h1 class="counter">Counter</h1>
+
+    <script>
+        let counter = 0;
+    function updateCounter(){
+        counter++;
+        document.querySelector(".counter").innerHTML = counter;
+        setTimeout(updateCounter,1000);
+    }
+    setTimeout(updateCounter,1000);
+    </script>
+</body>
+</html>

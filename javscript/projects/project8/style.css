@@ -10,5 +10,20 @@ html,body{
 }
 
 #main{
-    
+    width: 100%;
+    background-color: #fff;
+}
+
+#home{
+    width: 100%;
+    min-height: 100vh;
+    border: 2px solid red;
+}
+#nav{
+    width: 100%;
+    padding: 30px 50px;
+}
+
+#nav img{
+    width: 100px;
 }

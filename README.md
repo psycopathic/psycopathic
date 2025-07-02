@@ -1,4 +1,6 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](#)
 <h1 align="center">Hi 👋, I'm Harsh Shrivastava</h1>
+<h3 align="center">Development and full time pass</h3>
 <h3 align="center">Passionate about mastering web development and eager to explore the transformative field of machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycopathic&label=Profile%20views&color=0e75b6&style=flat" alt="psycopathic" /> </p>

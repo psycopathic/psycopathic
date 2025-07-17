@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycopathic&label=Profile%20views&color=0e75b6&style=flat" alt="psycopathic" /> </p>
 
-- 🔭 I’m currently working on **Chat application**
+- 🔭 I’m currently working on **Skill maxing**
 
 - 🌱 I’m currently learning **Next.js and highend backend**
 

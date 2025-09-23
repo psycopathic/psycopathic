@@ -15,8 +15,6 @@
 - 💬 Ask me about **Algorithms, Machine Learning,**
 
 - 📫 How to reach me **harshsrivastava0100@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
